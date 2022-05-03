@@ -6,3 +6,4 @@ for i in range(5):
     circle(100)
     left(72)
 done()
+#20220502 書込み

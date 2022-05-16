@@ -7,3 +7,4 @@ for i in range(5):
     left(72)
 done()
 #20220502 書込み
+#Git VS-Code

@@ -3,5 +3,6 @@
 ## 経費の精算について
 ## 宅配便の発送について
 ## プリンターについて
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+## 大容量データの送受信について
+## 電話、来客対応について
+## ゴミ収集について
